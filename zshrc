@@ -1,1 +1,0 @@
-/Users/ugo/dotfiles/zshrc
