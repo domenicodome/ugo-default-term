@@ -1,0 +1,1 @@
+/Users/ugo/dotfiles/p10k.zsh
