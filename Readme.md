@@ -1,3 +1,5 @@
-#My terminal configuration
-This repo contains my favorite setting of oh my zsh and p10k.
-I think in the future i will edit and improve but this is a personal and first project in my carreer of programmer (:
+# My terminal configuration
+
+This repo contains my favorite settings for oh-my-zsh and p10k.
+
+I think in the future I will edit and improve it, but this is my first personal project as a programmer (:
